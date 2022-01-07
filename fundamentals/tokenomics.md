@@ -1,3 +1,2 @@
 # 🪙 Tokenomics
 
-edit
